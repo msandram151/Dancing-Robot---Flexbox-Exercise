@@ -1,6 +1,6 @@
-This repository files are for you
-You can change them however you like 
+This repository files are for you,
+you can change them however you like. 
 For example you can add new dance
-Moves for the Robot so he can be
-Even more professional dancer
-Than he is right now :D
+moves for the Robot, so he can be
+even more professional dancer,
+than he is right now :D
